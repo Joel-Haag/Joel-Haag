@@ -4,6 +4,12 @@
      / _` |/ __| / __|| || ||______| / _` || '__|| __|
     | (_| |\__ \| (__ | || |        | (_| || |   | |_
      \__,_||___/ \___||_||_|         \__,_||_|    \__|
+     
+       |\_/|        ****************************    (\_/)
+ / @ @ \       *  "Purrrfectly pleasant"  *   (='.'=)
+( > º < )      *       Poppy Prinz        *   (")_(")
+ `>>x<<´       *   (pprinz@example.com)   *
+ /  O  \       ****************************
 
 <!--
 **Joel-Haag/Joel-Haag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
