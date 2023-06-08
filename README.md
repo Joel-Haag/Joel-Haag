@@ -23,7 +23,7 @@
              ██║███╗██║██╔══╝  ██╔══╝  ██╔══██╗
              ╚███╔███╔╝███████╗███████╗██████╔╝
              
-[MY ✨Spicy✨ Link ](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[MY ✨Spicy✨ Link ](https://www.youtube.com/watch?v=dQw4w9WgXcQ){:target="_blank"}
      
 
 <!--
