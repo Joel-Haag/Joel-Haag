@@ -1,8 +1,9 @@
-H   H 
-H   H 
-HHHHH 
-H   H 
-H   H 
+                   _  _                       _
+                  (_)(_)                     | |
+  __ _  ___   ___  _  _  ______   __ _  _ __ | |_
+ / _` |/ __| / __|| || ||______| / _` || '__|| __|
+| (_| |\__ \| (__ | || |        | (_| || |   | |_
+ \__,_||___/ \___||_||_|         \__,_||_|    \__|
 
 <!--
 **Joel-Haag/Joel-Haag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
