@@ -23,7 +23,7 @@
              ██║███╗██║██╔══╝  ██╔══╝  ██╔══██╗
              ╚███╔███╔╝███████╗███████╗██████╔╝
              
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">My ✨Spicy✨ Link</a>
+Check out this spicy link to a YouTube video: [M Spicy Link](https://www.youtube.com/watch?v=dQw4w9WgXcQ){:target="_blank" rel="noopener"}
      
 
 <!--
